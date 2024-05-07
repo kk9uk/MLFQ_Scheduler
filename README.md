@@ -20,5 +20,5 @@
 > ...
 
 ## Usage
-`$ make`  
-`$ ./MLFQ-Scheduler`
+
+    make -j $(nproc) && ./MLFQ-Scheduler
