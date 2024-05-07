@@ -20,5 +20,4 @@
 > ...
 
 ## Usage
-
     make -j $(nproc) && ./MLFQ-Scheduler
